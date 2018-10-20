@@ -12,3 +12,5 @@ This repo contains some of the algorithms and data structures we've been explori
 Once a week we come together from all around the globe to learn about Data Structures and Algorithms. The following is an incomplete list of participants who join in via virtual hangout and colloborate through live coding sessions on cloud9.
 
 Participants:
+
+[Joseph](https://github.com/kachulio1)
