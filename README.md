@@ -1,5 +1,5 @@
 # av_algorithm_mob
-Investigating algorithms and data structures with the AgileVentures community.
+Investigating Data structures and Algorithms with the AgileVentures community.
 
 [Agile Ventures](https://www.agileventures.org/) is an official UK Charity (#1170963) dedicated to crowdsourced learning and project development. We follow the Agile approach to software development (see below), and do so online everyday using remote pair programming technologies such as Google Hangouts.
 
@@ -13,4 +13,5 @@ Once a week we come together from all around the globe to learn about Data Struc
 
 Participants:
 
-[Joseph](https://github.com/kachulio1)
+- [Joseph](https://github.com/kachulio1)
+- [Eniwoke](https://github.com/cornzyblack)
