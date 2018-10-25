@@ -17,3 +17,4 @@ Participants:
 
 - [Joseph](https://github.com/kachulio1)
 - [Eniwoke](https://github.com/cornzyblack)
+- [Mikaël](https://github.com/mdautrey)
